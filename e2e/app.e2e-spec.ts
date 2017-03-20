@@ -1,6 +1,6 @@
 import { MikolioPage } from './app.po';
 
-describe('mikolio App', function() {
+describe('mikolio App', () => {
   let page: MikolioPage;
 
   beforeEach(() => {
